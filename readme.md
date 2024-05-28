@@ -5,11 +5,11 @@
 ## 安装
 
 ```bash
-pnpm add @elza/keepalive -D
+pnpm add @elza/keepalive
 # or
-yarn add @elza/keepalive -D
+yarn add @elza/keepalive
 # or
-npm install @elza/keepalive -D
+npm install @elza/keepalive
 ```
 
 ## 参数
