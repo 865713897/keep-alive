@@ -1,0 +1,39 @@
+{
+  "name": "@elza/keepalive",
+  "version": "0.0.3",
+  "description": "react keepalive",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "build:tsc": "tsc"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "keepalive"
+  ],
+  "author": {
+    "name": "limy",
+    "email": "lmy865713897@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/865713897/auto-route-plugin.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "unbuild": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-router-dom": "^6.23.1"
+  }
+}
